@@ -2,8 +2,9 @@ Getting started:
 create a local copy:
 1. download git from - https://git-scm.com/download/win
 2, open cmd prompt
-3. Go to the dire where you want your project code.
-4. Run git clone to create the copy of the repo.
+3. Go to the dir where you want your project code.
+4. Run git clone to create the copy of the repo - 
+git clone https://github.com/Saksham-Sanjwal/Clicker.git .
 5. run gui to the gui interface.
 6. Once code is done -run git commit -a 
 7. Add your comment. The press escape button, then :wq
