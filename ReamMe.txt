@@ -1,4 +1,5 @@
 Getting started:
+Creating a conflict
 create a local copy:
 1. download git from - https://git-scm.com/download/win
 2, open cmd prompt
@@ -8,5 +9,5 @@ git clone https://github.com/Saksham-Sanjwal/Clicker.git .
 5. run gui to the gui interface.
 6. Once code is done -run git commit -a 
 7. Add your comment. The press escape button, then :wq
-8. git push
+8. git push --force
 
