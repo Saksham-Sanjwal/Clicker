@@ -11,4 +11,3 @@ git clone https://github.com/Saksham-Sanjwal/Clicker.git .
 7. Add your comment. The press escape button, then :wq
 8. git push --force
 9. git status
-
