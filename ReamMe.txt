@@ -1,5 +1,4 @@
 Getting started:
-Creating a conflict 2
 create a local copy:
 1. download git from - https://git-scm.com/download/win
 2, open cmd prompt
@@ -9,5 +8,17 @@ git clone https://github.com/Saksham-Sanjwal/Clicker.git .
 5. run gui to the gui interface.
 6. Once code is done -run git commit -a 
 7. Add your comment. The press escape button, then :wq
-8. git push --force
-9. git status
+8. git push
+
+Pushing you changes to git
+1. git gui
+2. click rescan
+3. select the files, click on stage
+4. enter you comments. clikc on commit.
+5. click on push
+
+Merging the change to main:
+1.click on branch then choose checkout and then choose main
+2.go to remote then fetch from then to origin
+3.Then click on merge then local merge
+4.click commit then click push 
