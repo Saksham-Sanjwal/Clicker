@@ -1,3 +1,5 @@
+Go to your project dir.
+type git gui
 Getting started:
 create a local copy:
 1. download git from - https://git-scm.com/download/win
